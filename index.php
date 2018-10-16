@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>CSS</title>
+	<title>Selamat datang di Web Kami</title>
 	<link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
