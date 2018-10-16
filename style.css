@@ -1,0 +1,53 @@
+
+body{
+	background-color: #dfdfdf;
+	font-family: cursive;
+}
+
+header{
+	width: 100%;
+	background-color: #09D261;
+	padding: 1px 0;
+}
+h1{
+	color: #EFF0F0;
+	padding: 0 10px;
+	font-size: 2em;
+	text-align: left;
+}
+
+
+/*Artikel*/
+article{
+	width: 30%;
+	background-color: white;
+
+}
+.aku{
+	/*class diawali dengan titik*/
+	color: #321ade
+}
+ul{
+	width:100%;
+	background-color: #f9f9f9;
+	padding: 1px 0;
+
+}
+form{
+	text-align: center;
+	
+}
+.search{
+	position: center;
+	width: 300px;
+	padding: 1em;
+}
+.home{
+	width: 50px;
+}
+.about{
+	width: 50px;
+}
+.contact{
+	width: 50px;
+}
